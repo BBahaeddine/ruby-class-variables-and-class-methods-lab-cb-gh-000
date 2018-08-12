@@ -17,7 +17,6 @@ class Song
     # end
     # if @@artists.include?(artist) == false
       @@artists << artist
-    # end
   end
   
   def self.count
